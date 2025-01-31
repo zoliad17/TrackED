@@ -1,0 +1,9 @@
+/* global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add your custom styles */
+body {
+  background-color: #f8f9fa;
+}
