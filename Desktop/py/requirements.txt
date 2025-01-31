@@ -1,0 +1,10 @@
+fastapi==0.115.6
+passlib==1.7.4
+pydantic==2.10.4
+python-dotenv==1.0.1
+python_jose==3.3.0
+qrcode==8.0
+SQLAlchemy==2.0.36
+starlette==0.45.2
+uvicorn==0.34.0
+axios==0.27.2
